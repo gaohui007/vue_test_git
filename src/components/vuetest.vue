@@ -1,6 +1,6 @@
 <template>
 <div>
-    <button @click="change" >点我显示/隐藏</button>
+    <button @click="change" >点我显示/隐藏123</button>
     <div v-show="isShow"
          class="box come"
          
